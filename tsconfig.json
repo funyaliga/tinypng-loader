@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "es5",
+    "lib": [
+      "es2016",
+      "es2017",
+      "esnext",
+      "dom"
+    ],
+  }
+}
